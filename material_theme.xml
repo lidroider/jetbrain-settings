@@ -1,9 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-6e4a3494:167898ec3d5:-8000" />
-    <option name="version" value="3.2.0" />
+    <option name="userId" value="785856f0:1699e93636b:-8000" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
