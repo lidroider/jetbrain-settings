@@ -4,7 +4,7 @@
     <property name="created">2019-04-16T10:46:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-05-19T10:15:23</property>
+    <property name="modified">2019-05-19T13:42:01</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2310,7 +2310,6 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3f3f3f" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="11ff0a" />
       </value>
     </option>
