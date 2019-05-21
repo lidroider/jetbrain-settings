@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="RestApiService" type="CLASS" />
+      <mapping pattern="MTCTTelemetry" type="CLASS" />
     </extensionMap>
   </component>
 </application>
