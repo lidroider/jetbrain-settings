@@ -4,9 +4,9 @@
       <mapping pattern="TestController" type="CLASS" />
       <mapping pattern="Timestamp6DigitJsonSerializer" type="CLASS" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="jwtOption" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="ForeignBook" type="TypeScript" />
     </extensionMap>
   </component>
