@@ -1,13 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="how_to_run" type="PLAIN_TEXT" />
+      <mapping pattern="history" type="PLAIN_TEXT" />
+      <mapping pattern="result" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern="history" type="PLAIN_TEXT" />
+      <mapping pattern="aaaa" type="PLAIN_TEXT" />
+      <mapping pattern="result_backup" type="PLAIN_TEXT" />
       <mapping pattern="jwtOption" type="PLAIN_TEXT" />
-      <mapping pattern="how_to_run" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="result_backup1" type="PLAIN_TEXT" />
+      <mapping pattern="result_backup2" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping pattern="sql backup" type="SQL" />
       <mapping pattern="ForeignBook" type="TypeScript" />
